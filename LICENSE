@@ -1,0 +1,173 @@
+Open Code Project License v1.0
+Copyright (C) The Open Code Project, 2021. Some rights to this
+license text are reserved (more information below).
+
+1. This License
+
+1.1. This license text is available for free on the Open Code Project
+website at https://opencodeproject.org. If you have paid for this 
+license text, you should ask for your money back, and let us know by
+sending an email to licenses@opencodeproject.org.
+
+1.2. The Open Code Project hereby grants you a perpetual,
+non-exclusive non-sublicensable, non-transferable, royalty-free
+license to use, distribute, share, broadcast, publicly display, and
+otherwise make available this license text under the following
+conditions:
+
+    a) you may not charge anyone to receive a copy of this license,
+       or any code or project this license applies to;
+    
+    b) you may not claim affiliation or partnership with the Open
+       Code Project, use its trademarks, or use and of its brand
+       assets without express consent of the Open Code Project; and
+    
+    c) you may not modify the wording of this license without the
+       prior written permission of the Open Code Project.
+
+*********************************************************************
+* You may receive a copy of this license, or use it in your own     *
+* projects free-of-charge by visiting the Open Code Project's       *
+* website at: https://opencodeproject.org. Happy coding!            *
+*********************************************************************
+
+1.3. Whilst this license text is provided by the Open Code Project
+free-of-charge, such supply of this license text does not constitute
+the creation of an attorney-client relationship, which we will not
+and cannot be a part of. The Open Code Project does not provide legal
+advice. If you are in doubt of the restrictions, obligations, or
+terms this license's text entails, you should seek independent,
+professional legal advice.
+
+
+2. Introduction
+
+2.1. This Open Code Project License (the "License") is designed to
+protect your rights regarding open software, and protect the authors
+of such open software from being harmed.
+
+2.2. The "Licensor" is the person, organization, company, or other
+type of entity licensing the Work to you.
+
+2.3. The "Work" is the program, piece of software, binary code, or
+Source Code that this License protects.
+
+2.4. The term "Source Code" refers to any preferred form of the Work
+for making modifications or changes to it, and any and all available
+documentation describing how to modify the Work, as optionally
+published by the Licensor or one of its affiliates.
+
+2.5. Text surrounded by asterisks ("*") are to be considered
+additional information, and do not constitute a part of the License.
+In addition, they are not legal advice.
+
+2.6. If you do not understand any part of this License, you are
+hereby requested to seek independent legal advice before agreeing.
+
+
+3. Licensing 
+
+3.1. Subject to clause 3.2, the Licensor hereby grants you a
+worldwide, non-exclusive, royalty-free, sublicensable license, for
+the duration of the Work's copyright protection to:
+
+    a) use, copy, adapt, share, distribute, modify, translate,
+       integrate, transmit, reproduce, broadcast, perform and
+       publicly display the Work, including for commercial reasons.
+
+3.2. However, the following conditions apply:
+
+    a) when transmitting, sharing, distributing, or otherwise making
+       the Work available, you must disclose the source of which you
+       received the work (such as providing the name of the Licensor,
+       or a public link to the Work's official code repository link
+       at which the Work can be found);
+    
+    b) that you must disclose any modifications that you make to the
+       Work when transmitting, sharing, distributing, or otherwise
+       making the Work available, including in larger or combined
+       works, in a reasonable manor;
+
+    c) that, upon request from any member of the public (including
+       any entities such as corporations), make the source code of
+       the Work available, including any modifications you have made
+       to the Work;
+    
+    d) transmitting, transferring, distributing or making the Work,
+       or any modifications or part of the Work, available over a
+       computer network, such as the internet, is classed as
+       distribution;
+    
+    e) bundling or including this Work as a bundled library,
+       extension or plugin is classed as distribution of the Work;
+       and
+    
+    f) that, unless expressly told or permitted otherwise by the
+       Licensor, you may not claim endorsement or affiliation with
+       the Licensor, or use any of the Licensor's registered
+       trademarks.
+
+3.3. This License does not restrict use of the Work that is protected
+under applicable 'fair use' laws or regulations.
+
+
+4. Attribution
+
+*********************************************************************
+* Writing software and programs takes time, so the Licensor would   *
+* like to be credited for the time and effort they have put into    *
+* the creation of this software.                                    *
+*********************************************************************
+
+You must retain any and all copyright, trademark or License notices
+in the Work, including in its Source Code. Any subsequent works,
+including larger works, that you include any Source Code of the Work
+in must include a notice that discloses the source of the Work.
+
+
+5. Warranties
+
+THE WORK IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. THIS INCLUDES THE
+WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, AND
+NON-INFRINGEMENT. USE OF THE WORK IS AT YOUR SOLE RISK. TO THE
+MAXIMUM EXTENT ALLOWED BY LAW, THE LICENSOR SHALL NOT BE LIABLE TO
+YOU OR ANY THIRD PATY FOR ANY WARRANTY CLAIMS RELATED TO THE WORK.
+
+
+6. Liability
+
+To the maximum extent allowed by law, the Licensor shall not be
+liable to you or any third party for:
+
+    a) any loss of profit;
+
+    b) any loss of revenue, anticipated savings or goodwill; or
+    
+    c) any indirect or consequential loss.
+
+
+7. Governing Law
+
+This License is governed by the laws of the Licensor's main place of
+residence or business, irrespective of any issues or conflicts. Any
+action or suit related to this License against the Licensor must be
+brought only in the courts of the aforementioned jurisdiction.
+
+
+8. Severability
+
+8.1. If any part of this License is found to be invalid, void or
+unenforceable by a court of competent jurisdiction (as set out in
+clause 7), the License shall be deemed modified to the minimum extent
+necessary to make it valid, legal and enforceable. If such
+modification is not possible or is illegally unfair, the relevant
+part shall be deemed deleted.
+
+8.2. Any modification to or deletion of a part or section pursuant to
+paragraph 8.1 shall not effect the validity and enforceability of the
+rest of this License.
+
+8.3. Modifications to this License which are made by a court shall
+not constitute an edit of the Open Code Project Public License v1.0
+or any similar license text offered by the Open Code Project.
